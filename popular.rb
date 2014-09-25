@@ -5,7 +5,7 @@ require './configure'
 screen_name = ARGV[0] || 'timoreilly'
 #crondinosaurio no funciona, pues está protegido. Por ello usamos timoreilly.
 
-screen_number = ARGV[1] || 3
+screen_number = ARGV[1] || 0
 screen_number = screen_number.to_i
 
 amigos = Hash.new
