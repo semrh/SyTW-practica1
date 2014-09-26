@@ -1,8 +1,8 @@
-SyTW-practica1
+**SyTW - Practica 1 - Most popular friends on Twitter**
 
 ==============
 
-Sem Ramos Herrera
+*Sem Ramos Herrera*
 
 ==============
 
